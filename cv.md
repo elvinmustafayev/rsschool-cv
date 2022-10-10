@@ -1,20 +1,25 @@
 # Elvin Mustafayev
-_________________
+
+---
 
 ### Contact information
-_________________
+
+---
 
 **Phone**: +994703234319
 **Email**: <elvinmustafayev@yahoo.com>
 **Linkedin**:<https://www.linkedin.com/in/mustafayev-elvin/>
 
-
 #### Summary
-_________________
+
+---
+
 I’m currently working several small java projects .My goal is to learn front-end development and to be a full-stack developer .I want to get knowledge and skills that will be enough for employment in a company.
 
 #### Skills
-_________________
+
+---
+
 - Apache Kafka
 - Java Database Connectivity(JDBC)
 - Data Structures
@@ -33,35 +38,48 @@ _________________
 - Power Bi
 - MapStruct
 - Lombok
+- Bitbucket
+
 ##### Code Examples
-______________________
+
+---
+
 `
 
       List<String> al = new ArrayList<>();
 
-        al.add("RS school"); 
-        al.add("App"); 
+        al.add("RS school");
+        al.add("App");
         al.add("For");
         al.add("Front End Development");
-        
+
+
 `
+
 ##### Education
-_________________
+
+---
+
 - Azerbaijan Tourism and Management University
-    - Bachelor degree
+  - Bachelor degree
 - Databayte Academy
-     - Oracle SQL
+  - Oracle SQL
 - Databayte Academy
-     - PL/SQL
+  - PL/SQL
 
 #### WORK EXPERINCE
-_________________
-**Java Backend Developer**
-##### Kapital Bank OJSC
-02/2021-12/2021      ***Baku,Azerbaijan***
 
-**Kapital Bank** *is a commercial bank operating in **Azerbaijan**.Founded in 1874 as **Azerbaijan Savings Bank**,it is headquartered in **Baku**.*
-***Achievements/Tasks***:
+---
+
+**Java Backend Developer**
+
+##### Kapital Bank OJSC
+
+02/2021-12/2021 **_Baku,Azerbaijan_**
+
+**Kapital Bank** _is a commercial bank operating in **Azerbaijan**.Founded in 1874 as **Azerbaijan Savings Bank**,it is headquartered in **Baku**._
+**_Achievements/Tasks_**:
+
 - Writing SQL queries
 - Development of new APIs
 - Bug fixing
@@ -69,11 +87,10 @@ _________________
 - Analyzing logs of applications
 
 #### Languages
+
 - Azerbaijan
 - Turkish
 - Bug fixing
 - English
-     - **[LIB](https://lib-school.az/)** : IELTS
+  - **[LIB](https://lib-school.az/)** : IELTS
 - **[Duolingo](https://https://www.duolingo.com/)**: I am practicing as much as I can in order to speak fluently
-
-
