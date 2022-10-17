@@ -1,1 +1,1 @@
-- **[CV](https://github.com/elvinmustafayev/rsschool-cv/)** : CV
+- **[CV](https://elvinmustafayev.github.io/rsschool-cv/)** : CV
