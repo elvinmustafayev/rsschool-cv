@@ -1,1 +1,1 @@
-- **[CV](https://elvinmustafayev.github.io/rsschool-cv/cv)** : CV
+- **[CV](https://github.com/elvinmustafayev/rsschool-cv/blob/rsschool-cv-html/index.html)** : CV
